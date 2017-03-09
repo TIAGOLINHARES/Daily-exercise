@@ -1,0 +1,74 @@
+	
+
+mudar a cor ---------------
+p {
+color: blue;
+background-color: yellow;
+}
+
+
+
+
+mudar o tipo de fonte ------------
+h1 {
+font-family: serif;
+}
+h2 {
+font-family: sans-serif;
+}
+p {
+font-family: monospace;
+}
+
+alinhamento de texto ---------------
+
+p {
+text-align: right;
+}
+
+p {
+line-height: 3px; /* tamanho da altura de cada linha */
+letter-spacing: 3px; /* tamanho do espaço entre cada letra */
+word-spacing: 5px; /* tamanho do espaço entre cada palavra */
+text-indent: 30px; /* tamanho da margem da primeira linha do texto */
+}
+
+imagem de fundo --------------
+
+h1 {
+background-image: url(sobre-background.jpg);
+}
+
+bordas -----------------
+
+body {
+border-color: red;
+border-style: solid;
+border-width: 1px;
+}
+comentarios em css -------------
+/* deixando o fundo ridículo */
+
+margem interna--------------
+p {
+padding: 10px 20px 15px 5px;
+}
+margem externa--------------
+margin-top
+margin-right
+margin-bottom
+margin-left
+
+determinar dimenções ----------------
+
+p {
+background-color: red;
+height: 300px;
+width: 300px;
+}
+
+ancora para editar somente o id--------------
+#centro-distribuicao {
+margin-left: auto;
+margin-right: auto;
+width:

@@ -1,0 +1,21 @@
+
+
+Body{
+	border-left: auto;
+	border-right:auto;
+	background-color: #F2EDED;
+	text-align: center;
+	
+}
+figure{
+	margin: 30px;
+	background-color:#333333;
+	padding: 10px;
+	
+}
+
+p {
+	
+	font-family: arial;
+	
+}
